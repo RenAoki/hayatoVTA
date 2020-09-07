@@ -9,3 +9,5 @@
 |  kaggle  | [@HayatoOmori](https://www.kaggle.com/hayatoomori) |
 |  Twitter  |  [@hayato_VTA](https://twitter.com/hayato_VTA)  |
 |  note  |  [@hayato0423xxx](https://note.com/hayato0423xxx) |
+
+[![](https://raw.githubusercontent.com/hayatoVTA/hayatoVTA/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
