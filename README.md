@@ -1,14 +1,12 @@
-#### 未経験初学者です。
-
-
 |  info  |  data  |
 | ---- | ---- |
 |  Name  |  Hayato  |
 |  Country  |  Japan🇯🇵  |
-|  Favorite Lang  |  Python  |
 |  Status  |  Job Hunting  |
 |  Objective  |  App development  |
-|  Qiita  |  [@hayato_8810_xxx](https://qiita.com/hayato_8810xxx)<br>[![My Qiita posts](https://qiita-badge.apiapi.app/s/hayato_8810xxx/posts.svg)](http://qiita.com/hayato_8810xxx) ![My Qiita contributions](https://qiita-badge.apiapi.app/s/hayato_8810xxx/contributions.svg)  |
-|  kaggle  | [@Hayato](https://www.kaggle.com/hayatoomori) |
-|  Twitter  |  [@hayato_VTA](https://twitter.com/hayato_VTA)  |
-|  note  |  [@hayato0423xxx](https://note.com/hayato0423xxx) |
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hayatoVTA" alt="hayatoVTA" /></a></p>
+
+<p align="left"> <a href="https://twitter.com/hayato_VTA" target="blank"><img src="https://img.shields.io/twitter/follow/hayato_VTA?logo=twitter&style=for-the-badge" alt="hayato_VTA" /></a> </p
+
+<!-- p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayatoVTA&show_icons=true&locale=en&layout=compact" alt="hayatoVTA" /></p -->
