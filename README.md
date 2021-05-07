@@ -1,9 +1,9 @@
 |  info  |  data  |
 | ---- | ---- |
-|  Name  |  Hayato  |
+|  Name  |  Hayato Omori  |
 |  Country  |  Japan🇯🇵  |
 |  Status  |  Job Hunting  |
-|  Objective  |  App development  |
+|  Objective  |  Web App development  |
 
 <p align="left"> <a href="https://twitter.com/hayato_VTA" target="blank"><img src="https://img.shields.io/twitter/follow/hayato_VTA?logo=twitter&style=for-the-badge" alt="hayato_VTA" /></a></p>
   
